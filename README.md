@@ -52,12 +52,4 @@ streamlit run main.py
    - Load the saved model and scaler.
    - Predict the price using the pre-trained model.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 Creator Atome1212
