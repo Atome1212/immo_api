@@ -12,7 +12,7 @@ Welcome to the Immo API project! This repository contains all the necessary code
 
 This project aims to predict real estate prices using a pre-trained machine learning model. The code is structured to easily load the model, process input data, and provide price predictions via an API.
 
-![Real Estate](https://media4.giphy.com/media/PApUm1HPVYlDNLoMmr/200w.gif?cid=6c09b952nnaysvow05kybinbbbafp27asl5tjnl5i9qp5ja1&ep=v1_gifs_search&rid=200w.gif&ct=g)
+![Real Estate](https://media1.tenor.com/m/QpPN5fwofYcAAAAC/deployment-i-deployed.gif)
 
 ## Installation
 
