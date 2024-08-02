@@ -4,6 +4,7 @@ import joblib
 from sklearn.preprocessing import StandardScaler
 import os
 import base64
+import xgboost
 
 def local_css(file_name):
     with open(file_name) as f:
