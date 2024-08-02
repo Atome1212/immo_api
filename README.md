@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/84b9fc11-57ff-4e83-8c41-9495c082a205)
 # 🏡 Immo API 🏡
 
 Welcome to the Immo API project! This repository contains all the necessary code to load a pre-trained model and predict real estate prices based on various property features. 
