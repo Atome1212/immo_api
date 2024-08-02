@@ -1,0 +1,26 @@
+.custom-container {
+    background-color: rgba(0, 0, 0, 0.9);
+    padding: 10px;
+    border-radius: 10px 10px 0px 0px;
+}
+.custom-title, .custom-subtitle, [data-testid="stForm"] {
+    background-color: rgba(0, 0, 0, 0.9);
+    color: #FFF;
+    border-radius: 0px;
+    text-align: center;
+}
+.custom-title {
+    font-size: 45px!important;
+    font-weight: bold;
+}
+.custom-subtitle {
+    font-size: 25px!important;
+}
+
+.custom-success {
+    color: #fff;
+    font-size: 23px!important;
+    background-color: #28a745;
+    padding: 10px;
+    border-radius: 5px;
+}

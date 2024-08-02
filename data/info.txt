@@ -1,0 +1,5 @@
+Model segment: 1
+Date: 2024-07-23 00:37:09.897961
+Mean Absolute Error: 48242.00
+R2 Score: 0.86
+Best Params: {'objective': 'reg:squarederror', 'base_score': None, 'booster': None, 'callbacks': None, 'colsample_bylevel': None, 'colsample_bynode': None, 'colsample_bytree': 0.7, 'device': 'cuda', 'early_stopping_rounds': 10, 'enable_categorical': False, 'eval_metric': None, 'feature_types': None, 'gamma': 0, 'grow_policy': None, 'importance_type': None, 'interaction_constraints': None, 'learning_rate': 0.03, 'max_bin': None, 'max_cat_threshold': None, 'max_cat_to_onehot': None, 'max_delta_step': None, 'max_depth': 12, 'max_leaves': None, 'min_child_weight': 5, 'missing': nan, 'monotone_constraints': None, 'multi_strategy': None, 'n_estimators': 900, 'n_jobs': None, 'num_parallel_tree': None, 'random_state': 69, 'reg_alpha': 0.5, 'reg_lambda': 0, 'sampling_method': None, 'scale_pos_weight': None, 'subsample': 0.9, 'tree_method': 'hist', 'validate_parameters': None, 'verbosity': None}
