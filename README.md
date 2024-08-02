@@ -27,10 +27,10 @@ cd immo_api
 pip install -r requirements.txt
 ```
 
-Download and put the CSV into `./data/csvfile.csv`:
+Download and put the model into `./data/model.pkl`:
 
 ```
-https://drive.google.com/file/d/1NUl6IzHyf3wjxpRsx9l7ifrM5WZN2nrn/view?usp=sharing
+https://drive.google.com/file/d/1fHsNmA9dE_eYHE7Ep70yhNxxVCO6yhQN/view?usp=sharing
 ```
 
 ## Usage
