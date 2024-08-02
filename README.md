@@ -43,4 +43,9 @@ streamlit run main.py
    - Load the saved model and scaler.
    - Predict the price using the pre-trained model.
 
+or
+```bash
+https://immoapi-atome.streamlit.app/
+```
+
 Creator Atome1212
