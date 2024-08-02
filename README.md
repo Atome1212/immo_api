@@ -24,12 +24,6 @@ cd immo_api
 pip install -r requirements.txt
 ```
 
-Download and put the model into `./data/model.pkl`:
-
-```
-https://drive.google.com/file/d/1fHsNmA9dE_eYHE7Ep70yhNxxVCO6yhQN/view?usp=sharing
-```
-
 ## Usage
 
 Follow these steps to set up the API and make predictions:
