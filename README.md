@@ -8,8 +8,6 @@ Welcome to the Immo API project! This repository contains all the necessary code
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
