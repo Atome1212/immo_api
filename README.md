@@ -22,7 +22,7 @@ This project aims to predict real estate prices using a pre-trained machine lear
 To get started, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/Atome1212/immo_api.git
+git clone git@github.com:Atome1212/immo_api.git
 cd immo_api
 pip install -r requirements.txt
 ```
